@@ -1,0 +1,6 @@
+interface A
+{
+}
+class B
+{
+}

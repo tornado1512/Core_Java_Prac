@@ -1,0 +1,4 @@
+interface V
+{
+	V(){}
+}
