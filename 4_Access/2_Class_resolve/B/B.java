@@ -1,4 +1,3 @@
-class B
-{
-int x=22;
+class B{
+	int y=10;
 }

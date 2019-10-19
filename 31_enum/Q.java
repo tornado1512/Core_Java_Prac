@@ -1,0 +1,4 @@
+interface Q
+{
+	enum O{}
+}

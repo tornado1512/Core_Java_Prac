@@ -1,5 +1,4 @@
-	class A
-{
+class A{
 	int x=45; //instance level variable
 	void pro()//intance level method
 	{
